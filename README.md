@@ -6,3 +6,6 @@ Install with [this link](<a href="javascript:(function(){"use strict";var e=wind
 (just right-click and "Bookmark Link", or drag it to your bookmarks bar.)
 
 Note, this link used the same minified javascript as in the repo.
+
+<a href="javascript:(()=>{alert('Hello, World!');}());">Hello, World!</a>
+
