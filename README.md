@@ -9,3 +9,4 @@ Note, this link used the same minified javascript as in the repo.
 
 <a href="javascript:(()=>{alert('Hello, World!');}());">Hello, World!</a>
 
+(Install)[javascript:(()=>{alert('Hello, World!');}());]
